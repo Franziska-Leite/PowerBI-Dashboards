@@ -1,2 +1,2 @@
-# Resultados-PowerBI-Dashboard
-Power BI Dashboard for the evaluation of results
+# PowerBI-Dashboards
+A collection of my dashboards created with Power BI :)
